@@ -1,2 +1,4 @@
-# REST_CRUD_API-using-React-and-FastAPI
-Basic CRUD functions in React and Fast API
+# FastAPI and React Integration
+
+This repository demonstrates how to integrate a FastAPI backend with a React frontend .
+
